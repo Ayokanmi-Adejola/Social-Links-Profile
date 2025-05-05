@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Social-Link-Profile)
-- Live Site URL: [Live Site](https://ayokanmi-adejola.github.io/social-links-profile/)
+- Live Site URL: [Live Site](https://ayokanmi-adejola.github.io/Social-Link-Profile/)
 
 ## My process
 
