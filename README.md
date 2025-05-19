@@ -26,11 +26,6 @@ Users should be able to:
 
 ![](./preview.jpg)
 
-### Links
-
-- Solution URL: [GitHub Repository](https://github.com/Ayokanmi-Adejola/Social-Link-Profile)
-- Live Site URL: [Live Site](https://ayokanmi-adejola.github.io/Social-Links-Profile/)
-
 ## My process
 
 ### Built with
@@ -71,7 +66,3 @@ In future projects, I want to focus more on accessibility features and implement
 ## Author
 
 - Frontend Mentor - [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
-- Twitter - [@AyoAdejola100](https://x.com/AyoAdejola100)
-- LinkedIn - [Ayokanmi Adejola](https://www.linkedin.com/in/ayokanmiadejola/)
-- GitHub - [Ayokanmi-Adejola](https://github.com/Ayokanmi-Adejola)
-- YouTube - [Explore Nigeria and Beyond](https://www.youtube.com/@Explore_Nigeria_and_Beyond)
