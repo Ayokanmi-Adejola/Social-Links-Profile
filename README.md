@@ -2,16 +2,7 @@
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-## Table of contents
-
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-- [Author](#author)
+![](./preview.jpg)
 
 ## Overview
 
@@ -21,9 +12,6 @@ Users should be able to:
 
 - See hover and focus states for all interactive elements on the page
 
-### Screenshot
-
-![](./preview.jpg)
 
 ## My process
 
@@ -61,7 +49,3 @@ I also improved my understanding of responsive design by implementing a mobile-f
 ### Continued development
 
 In future projects, I want to focus more on accessibility features and implementing more complex animations. I also plan to explore CSS Grid for more complex layouts.
-
-## Author
-
-- Frontend Mentor - [@Ayokanmi-Adejola](https://www.frontendmentor.io/profile/Ayokanmi-Adejola)
